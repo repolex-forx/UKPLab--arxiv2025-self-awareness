@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "arxiv2025-self-awareness",
+  "versions": [
+    {
+      "commit": "e95f07908f0c4051baa53fc84b8661b7710a2354",
+      "tag": "",
+      "parsed_at": "2026-11-08T18:59:18.512584+00:00"
+    }
+  ]
+}
